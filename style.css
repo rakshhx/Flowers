@@ -1,0 +1,28 @@
+table, th, td{
+    border: 3px solid black;
+    border-collapse: collapse;
+    font-family: Courier new;
+    font-size: 20px;
+    font-weight: italic;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    padding: 30px;
+}
+
+body {
+  background: linear-gradient(to right, #ffccff 0%, #ff9999 100%);
+  font-size: 25px;
+  font-family:papyrus;
+ }
+ 
+ .parta {
+    text-align: center;
+  }
+  
+.partb {
+    font-size: 25px;
+  }
